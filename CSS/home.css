@@ -1,0 +1,107 @@
+@font-face{
+    font-family: myFirstFont;
+    src: url(../Font/Lexend/Lexend-VariableFont_wght.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: myFirstFont;
+}
+
+#home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#home #homeimg {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 870px;
+    position: relative;
+    background-image: linear-gradient(90deg, rgba(0,0,0,0.4) 100%, #000000 50%, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 80.15%), url(../IMG/background1.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+}
+
+#svg{
+    width: 100%;
+}
+
+
+#zero {
+    padding: 0;
+}
+
+
+
+#home #homespan {
+    position: absolute;
+    color: white;
+    margin: 0 auto;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+
+#meio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 80px;
+    font-weight: lighter;
+    color: rgb(255, 255, 255);
+    padding: 0;
+}
+#meio .homelogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+    color: white;
+}
+
+#meio .homelogo:hover {
+    color: rgb(165, 165, 165);
+}
+
+#meio #homeimage{
+    position: relative;
+    width: 100%;
+    height: 1500px;
+    background-image: linear-gradient(90deg, rgba(0,0,0,0.4) 100%, #000000 50%, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 80.15%), url(../IMG/background1.png);
+    background-size: cover;
+    background-position: center;
+}
+
+
+#text-block {
+    position: absolute;
+    top: 300px;
+    padding: 4px; 
+    line-height: 80px;
+}
+
+#meio #homelogoimage {
+    position: absolute;
+    top: 130px;
+}
+
+.h_line { 
+    width: 90%; 
+    height: 2px;
+    background: #0a0a0a;
+    margin-left: 90px;
+}
+
+
+
+
+
+    

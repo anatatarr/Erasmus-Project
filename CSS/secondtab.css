@@ -1,0 +1,55 @@
+@font-face{
+    font-family: myFirstFont;
+    src: url(../Font/Lexend/Lexend-VariableFont_wght.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: myFirstFont;
+}
+
+#second-tab-cont{
+    margin-left: 75px;
+}
+
+#st-contact{
+    margin-left: 0px;
+}
+
+#car-div-img{
+    width: 100%;
+}
+
+#st-image {
+    margin-left: 285px;
+}
+
+#car-img{
+    width: 100%;
+    height: auto;
+}
+
+#st-title{
+    letter-spacing: 5px;
+    font-weight: 600;
+}
+
+#st-subtitle{
+    font-weight: 400;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+#st-process{
+    margin-left: 350px;
+}
+
+#st-process-text {
+    font-weight: 700;
+    letter-spacing: 5px;
+}
+
+#st-b-image{
+    width: 90%;
+}

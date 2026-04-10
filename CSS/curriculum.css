@@ -1,0 +1,130 @@
+@font-face{
+    font-family: myFirstFont;
+    src: url(../Font/Lexend/Lexend-VariableFont_wght.ttf);
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: myFirstFont;
+}
+
+#boldlink {
+    color: black;
+    font-weight: 800;
+}
+
+#cur-div{
+    column-gap: 100px;
+}
+
+#cur-imgs{
+    margin-left: 0px;
+}
+
+.container-fluid{
+    row-gap: 250px;
+}
+
+#dates-img {
+    margin-left: 50px;
+}
+
+#contactbutton{
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    text-overflow: clip;
+}
+
+.h_line { 
+    width: 90%; 
+    height: 2px;
+    background: #0a0a0a;
+    margin-left: 90px;
+}
+
+#an {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+#expos {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.an-date{
+    font-size: 18px;
+    font-weight: 600;
+}
+#cur-1 {
+    margin-left: 90px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.an-info-bold {
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+.an-info {
+
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+.expos-info-bold {
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+}
+
+#prem{
+    display: flex;   
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+
+.btn.btn-secondary {
+    background-color: white;
+    color: black;
+    border-radius: 0;
+    --bs-card-border-width: 1px;
+    --bs-border-width: 1px;
+}
+
+
+#cur-title{
+    letter-spacing: 5px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+#cur-subtitle{
+    letter-spacing: 3px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+#cur-infos{
+    text-align: left;
+}
+
+.linkrem{
+    text-decoration: none;
+    color: black;
+}

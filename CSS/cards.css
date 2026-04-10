@@ -1,0 +1,92 @@
+@font-face{
+    font-family: myFirstFont;
+    src: url(../Font/Lexend/Lexend-VariableFont_wght.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: myFirstFont;
+}
+
+
+
+
+
+.card-body {   
+    border-color: white;
+    border-style: none;
+    border: 0;
+}
+
+.card-text {
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.card-title {
+    font-weight: 600;
+    letter-spacing: 5px;
+}
+
+
+.card-img-top {
+    height: 250px;
+}
+
+.btn.btn-secondary {
+    background-color: white;
+    color: black;
+    border-radius: 0;
+    --bs-card-border-width: 1px;
+    --bs-border-width: 1px;
+    margin-left: -15px;
+}
+
+
+.card {
+    --bs-card-border-width: 0px;
+    --bs-border-width: 0px;
+}
+
+.card-title{
+    margin-left: -15px;
+}
+.card-text{
+    margin-left: -15px;
+}
+
+
+.form-check-label {
+    font-family: myFirstFont;
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+input[type='checkbox']:checked {
+    background-color: gray;
+    border-style: none;
+    
+}
+
+input[type=checkbox] {
+    transform: scale(1.5);
+}
+
+
+.home-butt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttons {
+    --bs-gutter-x: 28.5rem;
+}
+
+
+
+
+
+

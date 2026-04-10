@@ -1,0 +1,71 @@
+@font-face{
+    font-family: myFirstFont;
+    src: url(../Font/Lexend/Lexend-VariableFont_wght.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: myFirstFont;
+}
+
+
+#expoimg1 {
+    width: 100%;
+    height: 900px;
+    position: relative;
+}
+
+#expotitle{
+    margin-left: 25px;
+}
+
+#exposubtitle{
+    margin-left: 25px;
+}
+
+
+#expo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 50px;
+}
+
+
+#expotexts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 90px;
+    font-weight: 500;
+}
+
+
+
+
+#vidimg {
+    position: relative;
+    width: 1500px;
+    max-width: fit-content;
+    margin-left: 130px;
+}
+
+
+.expopics {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    column-gap: 50px;
+    margin-top: 50px;
+}
+
+
+#expopic {
+    display: block;
+    margin-left: 130px;
+    margin-right: auto;
+}
+

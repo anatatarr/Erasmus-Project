@@ -1,0 +1,50 @@
+@font-face{
+    font-family: myFirstFont;
+    src: url(../Font/Lexend/Lexend-VariableFont_wght.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: myFirstFont;
+}
+
+#logoimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#menu{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 30px;
+    padding-bottom: 10px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: rgb(85, 85, 85);
+}
+
+#menu .firstlink{
+    color: black;
+    font-weight: 700;
+}
+
+#menu a:hover{
+    color: black;
+}
+
+#social-links{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,39 @@
+@font-face{
+    font-family: myFirstFont;
+    src: url(../Font/Lexend/Lexend-VariableFont_wght.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: myFirstFont;
+}
+
+#sobreimg{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+
+
+
+
+
+#title {
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+#desc {
+    font-weight: 600;
+}
+
+
+.btn.btn-secondary {
+    background-color: white;
+    color: black;
+    border-radius: 0;
+    --bs-card-border-width: 1px;
+    --bs-border-width: 1px;
+}
