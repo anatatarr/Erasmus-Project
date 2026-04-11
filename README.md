@@ -28,5 +28,10 @@ The navigation bar features the artist’s logo, which links to the homepage (ho
 
 ### 📸 Screenshots
 #### Works Gallery & Contact Form
+
+<p align="center">
+  <img src="screenshot1.png" width="45%" />
+  <img src="screenshot2.png" width="45%" />
+</p>
 ![Works Page Section](ss1.png)
 ![Contact Page Layout](ss2.png)
