@@ -30,7 +30,7 @@ The navigation bar features the artist’s logo, which links to the homepage (ho
 #### Works Gallery & Contact Form
 
 <p align="center">
-  <img src="ss1.png" width="48%" />
-  <img src="ss2.png" width="45%" />
+  <img src="ss1.png" width="49%" />
+  <img src="ss2.png" width="44%" />
 </p>
 
