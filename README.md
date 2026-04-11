@@ -21,7 +21,7 @@ The navigation bar features the artist’s logo, which links to the homepage (ho
 
 - **SOBRE (About):** An introductory page providing background on the artist, including a direct bridge to the contact section.
 
-- **CONTACTOS (Contact):** A comprehensive form using semantic label tags. It includes input fields for name, email, country, and phone, plus a file upload feature. Accessible via the footer or the "ENTRAR EM CONTACTO" button.
+- **CONTACTOS (Contact):** A comprehensive form using semantic label tags. It includes input fields for name, email, country, and phone, plus a file upload feature. Accessible via the footer or the "ENTRAR EM CONTACTO" (Get in Touch) button.
 
 - **CURRICULUM (CV):** A detailed professional profile featuring personal info, education, and awards presented in a chronological layout.
 
