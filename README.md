@@ -24,3 +24,9 @@ The navigation bar features the artist’s logo, which links to the homepage (ho
 **CONTACTOS (Contact):** A comprehensive form using semantic label tags. It includes input fields for name, email, country, and phone, plus a file upload feature. Accessible via the footer or the "ENTRAR EM CONTACTO" button.
 
 **CURRICULUM (CV):** A detailed professional profile featuring personal info, education, and awards presented in a chronological layout.
+
+
+### 📸 Screenshots
+#### Works Gallery & Contact Form
+![Works Page Section](ss1.png)
+![Contact Page Layout](ss2.png)
