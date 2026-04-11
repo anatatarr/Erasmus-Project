@@ -26,11 +26,11 @@ The navigation bar features the artist’s logo, which links to the homepage (ho
 **CURRICULUM (CV):** A detailed professional profile featuring personal info, education, and awards presented in a chronological layout.
 
 
-### 📸 Screenshots
+### Screenshots
 #### Works Gallery & Contact Form
 
 <p align="center">
   <img src="ss1.png" width="48%" />
-  <img src="ss2.png" width="48%" />
+  <img src="ss2.png" width="45%" />
 </p>
 
