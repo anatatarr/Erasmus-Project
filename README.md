@@ -11,7 +11,7 @@ The navigation bar features the artist’s logo, which links to the homepage (ho
 
 **Interactive Navbar:** Includes the artist’s logo (linked to home.html), main navigation links, and social media integration (Facebook & Instagram icons).
 
-**Sticky Footer**: A dedicated <div id="footer-links"> containing quick access to Curriculum and Contact, external company links, and copyright notices.
+**Sticky Footer**: A dedicated div id="footer-links" containing quick access to Curriculum and Contact, external company links, and copyright notices.
 
 **Page Breakdown**
 
